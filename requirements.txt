@@ -1,0 +1,6 @@
+# Requirements for INF4000-FootballVisualisation
+ggplot2>=3.3.5       # For creating advanced visualizations
+dplyr>=1.0.7         # For data manipulation and transformation
+tidyr>=1.1.4         # For data tidying and reshaping
+scales>=1.1.1        # For improving visualizations with scaling functions
+readr>=2.1.0         # For reading CSV files efficiently
